@@ -339,7 +339,7 @@ export default function GiftClient({ data }: Props) {
             </>
           ) : (
             <>
-              <h2 className="gift-title" style={{ marginBottom: '1rem' }}>Happy Birthday, tala! 🎂</h2>
+              <h2 className="gift-title" style={{ marginBottom: '1rem' }}>Happy Birthday, 3mre! 🎂</h2>
               <p className="description">
                 May all your wishes and dreams come true this year! ✨
               </p>
